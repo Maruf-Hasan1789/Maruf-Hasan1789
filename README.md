@@ -10,9 +10,10 @@ Skills: C / C++ / Python / PHP / Android
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Maruf-Hasan1789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maruf-hasan-951b6320a//)  
 
 ### Online Judge Handles
-https://cp-logo.vercel.app/codeforces/<Blurryface>
-https://cp-logo.vercel.app/codechef/<maruf_hasan>
-https://cp-logo.vercel.app/atcoder/<Maruf_Hasan1789>
+
+[![Badge](https://cp-logo.vercel.app/codeforces/blurryface?logo=true)]
+[![Badge](https://cp-logo.vercel.app/codechef/maruf_hasan?logo=true)]
+[![Badge](https://cp-logo.vercel.app/atcoder/maruf_hasan1789?logo=true)]
 
 
 
