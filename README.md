@@ -13,8 +13,6 @@ Skills: C / C++ / Python / PHP / Android
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-Hasan1789&show_icons=true)  
 
-![Codeorces2](https://raw.githubusercontent.com/Maruf-Hasan1789/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![Codeforces](https://raw.githubusercontent.com/Maruf-Hasan1789/cf-stats/main/output/light_card.svg)
 
 
 
