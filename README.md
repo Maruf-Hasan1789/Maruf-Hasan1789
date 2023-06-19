@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Maruf Hasan
 #### Just another problem solver
-I'm Md. Mareful Hasan Maruf from Bangladesh.I am an avid learner and problem solver.I have done projects in Android,PHP and a little bit o Machine Learning.
+I'm Md. Mareful Hasan Maruf from Bangladesh.I am an avid learner and problem solver.I have done projects in Android,PHP and a little bit of Machine Learning.
 
 Skills: C / C++ / Python / PHP / Android
 
@@ -15,5 +15,5 @@ Skills: C / C++ / Python / PHP / Android
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maruf-Hasan1789)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?username=Maruf-Hasan1789)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Maruf-Hasan1789)](https://git.io/streak-stats)
 
