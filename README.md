@@ -11,9 +11,9 @@ Skills: C / C++ / Python / PHP / Android
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maruf-Hasan1789)](https://github.com/Maruf-Hasan1789)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Maruf-Hasan1789&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruf-Hasan1789&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Maruf-Hasan1789)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Maruf-Hasan1789)  
+![GitHub streak stats](https://streak-stats.demolab.com/?username=Maruf-Hasan1789)
 
