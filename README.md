@@ -11,8 +11,8 @@ Skills: C / C++ / Python / PHP / Android
 ### Online Judge Handles
 
 [![Badge](https://cp-logo.vercel.app/codeforces/blurryface?logo=true)](https://codeforces.com/profile/Blurryface)
-[![Badge](https://cp-logo.vercel.app/codechef/maruf_hasan?logo=true)]
-[![Badge](https://cp-logo.vercel.app/atcoder/maruf_hasan1789?logo=true)]
+[![Badge](https://cp-logo.vercel.app/codechef/maruf_hasan?logo=true)](https://www.codechef.com/users/maruf_hasan)
+[![Badge](https://cp-logo.vercel.app/atcoder/maruf_hasan1789?logo=true)](https://atcoder.jp/users/Maruf_Hasan1789)
 
 
 
