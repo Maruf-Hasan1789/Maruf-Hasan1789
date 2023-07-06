@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### Just another problem solver
-I'm Md. Mareful Hasan Maruf from Bangladesh.I am an avid learner and problem solver.I have done projects in Android,PHP and a little bit of Machine Learning.
+I'm Md. Mareful Hasan Maruf from Bangladesh.I am a fresh graduate looking for opporunities in backend development or mobile application development. I am an avid learner and problem solver.I have done some projects in Android,php,django and also a little bit of Machine Learning.
 
 Skills: C / C++ / Python / PHP / Android
 
