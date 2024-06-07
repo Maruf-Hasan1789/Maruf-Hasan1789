@@ -4,7 +4,7 @@ I'm Md. Mareful Hasan Maruf from Bangladesh.I am a fresh graduate looking for op
 
 Skills: C / C++ / Python / PHP / Android /Java
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Go 
 
 
 
