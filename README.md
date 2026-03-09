@@ -1,5 +1,5 @@
 # Md. Mareful Hasan Maruf 👋
-### Backend Engineer | Distributed & Distributed Systems Enthusiast
+### Backend Engineer | Distributed Systems Enthusiast
 
 Backend Engineer with **2.5+ years of professional experience** building scalable backend services and distributed systems.
 
